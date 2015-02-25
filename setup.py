@@ -9,7 +9,7 @@ setup(
     long_description='Sends key stroke events to a given X11 window to save you the trouble of using an actual drinking bird''',
     author='Sean Caulfield',
     author_email='sean@yak.net',
-    scripts=['drinking_bird.py', 'twiddle'],
+    scripts=['drinking_bird.py',],
     platforms=('Linux','Unix','POSIX',),
     requires=('Xlib(>=0.14)',),
     license='GPL2',
